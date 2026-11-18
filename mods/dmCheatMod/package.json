@@ -1,0 +1,8 @@
+{
+    "id": "dmCheatMod",
+    "name": "Mod de Cheats",
+    "version": "1.0.0",
+    "author": "Delean",
+    "description": "Dinheiro infinito, notas maximas, barris vermelhos e funcionarios imortais.",
+    "main": "./main.js"
+}
